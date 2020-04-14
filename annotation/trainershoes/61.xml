@@ -1,0 +1,22 @@
+<annotation>
+  <folder>data/trainershoes</folder>
+  <filename>61.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>35</ymin>
+      <xmax>207</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

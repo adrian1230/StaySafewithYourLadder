@@ -1,0 +1,22 @@
+<annotation>
+  <folder>data/humanhands</folder>
+  <filename>2.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>35</ymin>
+      <xmax>193</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+</annotation>
