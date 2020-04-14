@@ -1,0 +1,22 @@
+<annotation>
+  <folder>data/ladderwooden</folder>
+  <filename>21.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Ladder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>16</ymin>
+      <xmax>147</xmax>
+      <ymax>185</ymax>
+    </bndbox>
+  </object>
+</annotation>

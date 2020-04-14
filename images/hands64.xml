@@ -1,0 +1,34 @@
+<annotation>
+  <folder>data/hands</folder>
+  <filename>77.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>224</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>69</ymin>
+      <xmax>212</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>46</ymin>
+      <xmax>126</xmax>
+      <ymax>179</ymax>
+    </bndbox>
+  </object>
+</annotation>
